@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IzhNaviel
 - 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contacts:
+- Telegram: https://t.me/IzhNaviel
+- Discord: Naviel
 
 <!---
 IzhNaviel/IzhNaviel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
